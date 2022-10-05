@@ -1,5 +1,3 @@
-Data Analyst Portfolio
-
 - 👋 Hi, I’m @karan-dholakia
 - 👀 I’m interested in the field of Data Analytics & Data Science
 - 🌱 I’m currently learning more about Data Analytics
